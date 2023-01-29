@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmblog"]=self["webpackChunkmblog"]||[]).push([[122],{1122:function(n,e,t){t.r(e),t.d(e,{default:function(){return i}});var r=t(3396);const a={src:"https://wallet.astrocoin.uz/ranks",frameborder:"0"};function c(n,e,t,c,o,s){return(0,r.wg)(),(0,r.iD)("iframe",a)}var o={name:"Ranks",mounted(){document.title="AstroCoin | Ranks"}},s=t(89);const u=(0,s.Z)(o,[["render",c],["__scopeId","data-v-a1ccc33e"]]);var i=u}}]);
+//# sourceMappingURL=122.99df87ec.js.map
