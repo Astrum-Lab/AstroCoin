@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,a as l}from"./app.572a502a.js";const C=JSON.parse('{"title":"API Reference","description":"","frontmatter":{},"headers":[],"relativePath":"guide/index.md","lastUpdated":null}'),o={name:"guide/index.md"},e=l("",7),p=[e];function t(c,r,i,y,F,D){return a(),n("div",null,p)}const A=s(o,[["render",t]]);export{C as __pageData,A as default};
